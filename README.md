@@ -1,2 +1,3 @@
 # portpolio
-not net mvc
+
+HTML,CSS,JAVASCRIPT
